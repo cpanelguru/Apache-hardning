@@ -68,3 +68,10 @@ arguments. In order to get an up-to-date help document, just run
 
 ## License
 The code is licensed under the MIT License.
+
+
+git clone  https://github.com/cpanelguru/Apache-hardning.git
+git clone https://github.com/gkbrk/slowloris.git
+cd slowloris
+python3 slowloris.py Domain.com -s 5000
+After that check website, it should functional.
